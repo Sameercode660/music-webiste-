@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Beginner Guitar Lessons",
+        "slug": "beginner-guitar-lessons",
+        "description": "Learn the basics of playing the guitar with easy-to-follow lessons.",
+        "price": 49.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://example.com/images/guitar-lessons.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your journey with piano playing with our comprehensive beginner's course.",
+        "price": 59.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "https://example.com/images/piano-lessons.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Drum Basics",
+        "slug": "drum-basics",
+        "description": "Master the basic techniques of drumming in this introductory course.",
+        "price": 39.99,
+        "instructor": "Mike Johnson",
+        "isFeatured": true,
+        "image": "https://example.com/images/drum-lessons.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Advanced Violin Techniques",
+        "slug": "advanced-violin-techniques",
+        "description": "Take your violin skills to the next level with advanced techniques and practice.",
+        "price": 69.99,
+        "instructor": "Emily Davis",
+        "isFeatured": false,
+        "image": "https://example.com/images/violin-lessons.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Singing for Beginners",
+        "slug": "singing-for-beginners",
+        "description": "Learn how to sing and improve your vocal skills with our beginner's course.",
+        "price": 29.99,
+        "instructor": "Anna Brown",
+        "isFeatured": true,
+        "image": "https://example.com/images/singing-lessons.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Music Theory Essentials",
+        "slug": "music-theory-essentials",
+        "description": "Understand the fundamentals of music theory and how to apply them.",
+        "price": 45.00,
+        "instructor": "Chris Wilson",
+        "isFeatured": false,
+        "image": "https://example.com/images/music-theory.jpg"
+      }
+    ]
+  }
+  
